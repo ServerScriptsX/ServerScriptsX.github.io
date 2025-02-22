@@ -8,9 +8,7 @@ function cancel(){
 }
 // Typewriter Effect
 const texts = [
-    "DEVELOPER",
-    "DESIGNER",
-    "YOUTUBER"
+    "DEVELOPER"
 ]
 let speed  =100;
 const textElements = document.querySelector(".typewriter-text");
